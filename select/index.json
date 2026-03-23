@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Not snow,but U",
+  "base_artist": "七元",
+  "createdAt": "2026-03-23T14:58:05.286437Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Not snow,but U",
+      "artist": "七元",
+      "has_synced": true,
+      "path": "select/01_Not_snow,but_U_七元.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Not snow,but U (Paused)",
+      "artist": "七元",
+      "has_synced": true,
+      "path": "select/02_Not_snow,but_U_(Paused)_七元.lrc"
+    }
+  ]
+}
